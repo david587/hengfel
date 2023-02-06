@@ -5,9 +5,9 @@ import { GitComponent } from './git/git.component';
 import { HengerComponent } from './henger/henger.component';
 
 const routes: Routes = [
-  {path:"/henger", component: HengerComponent},
-  {path:"/git", component: GitComponent},
-  {path:"/about", component: AboutComponent}
+  {path:"henger", component: HengerComponent},
+  {path:"git", component: GitComponent},
+  {path:"about", component: AboutComponent}
 ];
 
 @NgModule({
