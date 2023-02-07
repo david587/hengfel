@@ -1,3 +1,13 @@
+/*
+* File: about.component.ts
+* Author: Baráth Dávid
+* Copyright: 2023, Baráth Dávid
+* Group: Szoft 2/N
+* Date: 2022-02-07
+* Github: https://github.com/david587/
+* Licenc: GNU GPL
+*/
+
 import { Component, OnInit } from '@angular/core';
 
 @Component({
